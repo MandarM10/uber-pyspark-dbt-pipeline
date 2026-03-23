@@ -136,8 +136,4 @@ dbt test       # run data quality tests
 **Mandar Mungekar**  
 Data Engineer  
 [GitHub](https://github.com/MandarM10)
-```
-```
-→ Scroll down
-→ Commit message: "add complete README"
-→ Commit changes
+
