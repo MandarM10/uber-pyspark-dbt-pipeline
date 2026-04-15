@@ -12,7 +12,7 @@ PySpark, dbt, and Databricks Unity Catalog.
 ---
 
 ## 🏗️ Architecture
-![Project Architecture](PYSPARK + DBT.png)
+![Project Architecture](./images/PYSPARK + DBT.png)
 ```
 CSV Files (Source)
       ↓
